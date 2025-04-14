@@ -5,6 +5,9 @@
 <h1 align="center">codin'&readin'&chillin'</h1>
 
 ---
+### Education
+- AGH UST
+- Social Informatics (2027)
 
 ### Tech Stack & Skills
 - Programming Languages: Python, JavaScript, C++
