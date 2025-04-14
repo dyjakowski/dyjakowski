@@ -11,7 +11,7 @@
 
 ### Tech Stack & Skills
 - Programming Languages: Python, JavaScript, C++
-- Focus Area: Front-end Development
+- Focus Area: Front-end Development, Back-end Development
 
 ### Currently Learning
 - React  
