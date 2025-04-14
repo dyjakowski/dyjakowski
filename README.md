@@ -7,7 +7,7 @@
 ---
 
 ### Tech Stack & Skills
-- Programming Languages: Python, JavaScript, C++, HTML, CSS
+- Programming Languages: Python, JavaScript, C++
 - Focus Area: Front-end Development
 
 ### Currently Learning
@@ -19,8 +19,8 @@
 - Social Theory  
 - Basketball  
 
-### Fun Fact  
-"I can only suggest that he who would combat false consciousness and awaken their true interests has much to do, because the sleep is very deep.<br>  
+###  
+"I can only suggest that he who would combat false consciousness and awaken their true interests has much to do, because the sleep is very deep.  
 And I do not intend here to provide a lullaby but merely to sneak in and watch the way the people snore."<br>  
 — Erving Goffman, *Frame Analysis*
 
