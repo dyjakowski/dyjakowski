@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/cd/b8/95/cdb89580457caa7d13c4384a3d1a367c.gif" width="400"/>
 </p>
 
-<h1 align="center">Studying in AGH</h1>
+<h1 align="center">codin'&readin'&chillin'</h1>
 
 ---
 
