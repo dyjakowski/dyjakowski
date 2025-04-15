@@ -10,7 +10,7 @@
 - Social Informatics (2027)
 
 ### Tech Stack & Skills
-- Programming Languages: Python, JavaScript, C++
+- Programming Languages: Python, C++, R
 - Focus Area: Front-end Development, Back-end Development
 
 ### Currently Learning
